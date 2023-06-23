@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Top-Trumps-Website/static/css/main.af4553f2.css",
+    "main.js": "/Top-Trumps-Website/static/js/main.dfdd52b8.js",
+    "index.html": "/Top-Trumps-Website/index.html",
+    "main.af4553f2.css.map": "/Top-Trumps-Website/static/css/main.af4553f2.css.map",
+    "main.dfdd52b8.js.map": "/Top-Trumps-Website/static/js/main.dfdd52b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af4553f2.css",
+    "static/js/main.dfdd52b8.js"
+  ]
+}
