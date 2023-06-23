@@ -42,9 +42,9 @@ export const Footer = () => {
         <div className="footer-column">
           <h3>Contact</h3>
           <ul>
-            <li>Marnix ...</li>
-            <li>Ben ...</li>
-            <li>Thomas ...</li>
+            <li>Marnix Jansma</li>
+            <li>Ben van der Laan</li>
+            <li>Thomas Vos</li>
             <li>Rutger Luinge; rutger@luinge.eu</li>
             <li>
               <a

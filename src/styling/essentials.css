@@ -1,5 +1,39 @@
 .page-container {
-  width: 100%;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 200px;
+}
+
+.half_vw {
+  width: 50%;
+}
+.vw_80 {
+  width: 80%;
+}
+
+.image {
+  width: 150px;
+  height: 200px
+}
+
+.paragraph {
+  padding-top: 10px;
+  display: flex;
+  font-size: 20px;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+
+.div_span {
+  display: flex;
+  flex-direction: row;
 }
 
 .content-container {
@@ -26,6 +60,7 @@
   height: 100vw;
   display: flex;
   justify-content: left;
+  flex-direction: column;
 }
 
 .content {
@@ -76,7 +111,6 @@
 .btn-active-normal {
   background-color: darkgray;
 }
-
 
 .github_link {
   text-decoration: underline;
