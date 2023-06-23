@@ -20,16 +20,18 @@ export const Navigator = () => {
             <SmartLink href={"/"}>Home</SmartLink>
           </li>
           <li className="li-header">
-            <SmartLink href={"/game"}>Game</SmartLink>
+            <SmartLink href={"/Top-Trumps-Website/game"}>Game</SmartLink>
           </li>
           <li className="li-header">
-            <SmartLink href={"/implementation"}>Implementation</SmartLink>
+            <SmartLink href={"/Top-Trumps-Website/implementation"}>
+              Implementation
+            </SmartLink>
           </li>
           <li className="li-header">
-            <SmartLink href={"/play"}>Play</SmartLink>
+            <SmartLink href={"/Top-Trumps-Website/play"}>Play</SmartLink>
           </li>
           <li className="li-header">
-            <SmartLink href={"/results"}>Results</SmartLink>
+            <SmartLink href={"/Top-Trumps-Website/results"}>Results</SmartLink>
           </li>
         </ul>
       </nav>

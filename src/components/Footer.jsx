@@ -19,19 +19,23 @@ export const Footer = () => {
           <h3>Pages</h3>
           <ul>
             <li>
-              <NormalLink href={"/"}>Home</NormalLink>
+              <NormalLink href={"/Top-Trumps-Website/"}>Home</NormalLink>
             </li>
             <li>
-              <NormalLink href={"/game"}>Game</NormalLink>
+              <NormalLink href={"/Top-Trumps-Website/game"}>Game</NormalLink>
             </li>
             <li>
-              <NormalLink href={"/implementation"}>Implementation</NormalLink>
+              <NormalLink href={"/Top-Trumps-Website/implementation"}>
+                Implementation
+              </NormalLink>
             </li>
             <li>
-              <NormalLink href={"/play"}>Play</NormalLink>
+              <NormalLink href={"/Top-Trumps-Website/play"}>Play</NormalLink>
             </li>
             <li>
-              <NormalLink href={"/results"}>Results</NormalLink>
+              <NormalLink href={"/Top-Trumps-Website/results"}>
+                Results
+              </NormalLink>
             </li>
           </ul>
         </div>
