@@ -17,7 +17,7 @@ export const Navigator = () => {
         <h3 className="nav-title">Top-Trumps-Lamas</h3>
         <ul className="ul-header">
           <li className="li-header">
-            <SmartLink href={"/"}>Home</SmartLink>
+            <SmartLink href={"/Top-Trumps-Website/"}>Home</SmartLink>
           </li>
           <li className="li-header">
             <SmartLink href={"/Top-Trumps-Website/game"}>Game</SmartLink>

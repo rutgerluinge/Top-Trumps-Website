@@ -16,14 +16,14 @@ function App() {
     <div className="">
       <Navigator></Navigator>
       <Routes>
-        <Route path="Top-Trumps-Website/" element={<Home />} />
-        <Route path="Top-Trumps-Website/game" element={<Game />} />
+        <Route path="/Top-Trumps-Website/" element={<Home />} />
+        <Route path="/Top-Trumps-Website/game" element={<Game />} />
         <Route
-          path="Top-Trumps-Website/implementation"
+          path="/Top-Trumps-Website/implementation"
           element={<Implementation />}
         />
-        <Route path="Top-Trumps-Website/play" element={<Play />} />
-        <Route path="Top-Trumps-Website/results" element={<Results />} />
+        <Route path="/Top-Trumps-Website/play" element={<Play />} />
+        <Route path="/Top-Trumps-Website/results" element={<Results />} />
       </Routes>
       <Footer></Footer>
     </div>
