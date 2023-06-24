@@ -4,6 +4,8 @@ import { Navigator } from "./components/Navbar";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import "./styling/teststyling.css";
+import "./styling/teststyling.css";
+
 import "./styling/essentials.css";
 import { Home } from "./pages/home";
 import { Game } from "./pages/game";

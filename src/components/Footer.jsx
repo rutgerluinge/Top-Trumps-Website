@@ -12,6 +12,7 @@ export const Footer = () => {
           <ul>
             <li>Univeristy of Groningen</li>
             <li>Faculty of Science and Engineering</li>
+            <li>Logical Aspects of Multi Agent Systems</li>
             <li>Msc Artificial Intelligence 2022-2023</li>
           </ul>
         </div>
