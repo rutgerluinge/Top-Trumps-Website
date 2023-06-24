@@ -5,7 +5,7 @@ import NormalLink from "./NormalLink";
 
 export const Footer = () => {
   return (
-    <div className="footer-container">
+    <div className="footer-container font">
       <footer className="footer">
         <div className="footer-column">
           <h3>LAMAS</h3>

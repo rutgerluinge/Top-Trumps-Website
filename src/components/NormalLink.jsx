@@ -5,7 +5,7 @@ import "../styling/essentials.css";
 export default function NormalLink({ href, children }) {
   const path = useLocation();
 
-  let args = "btn-header-normal";
+  let args = "btn-header-normal font";
 
   args +=
     path.pathname === href ? " btn-active-normal" : " btn-nonactive-normal";
