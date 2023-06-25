@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Top-Trumps-Website/static/css/main.035c582e.css",
-    "main.js": "/Top-Trumps-Website/static/js/main.3aa6d4cf.js",
+    "main.js": "/Top-Trumps-Website/static/js/main.6f4b2261.js",
     "static/media/card_2.png": "/Top-Trumps-Website/static/media/card_2.281198de8bf2c4d73299.png",
     "static/media/card.png": "/Top-Trumps-Website/static/media/card.a7c2b304751d71ddf47c.png",
     "static/media/state2.jpg": "/Top-Trumps-Website/static/media/state2.4014dd88143f61d92149.jpg",
@@ -14,10 +14,10 @@
     "static/media/state6.jpg": "/Top-Trumps-Website/static/media/state6.cdf3bfa93876e0106df6.jpg",
     "index.html": "/Top-Trumps-Website/index.html",
     "main.035c582e.css.map": "/Top-Trumps-Website/static/css/main.035c582e.css.map",
-    "main.3aa6d4cf.js.map": "/Top-Trumps-Website/static/js/main.3aa6d4cf.js.map"
+    "main.6f4b2261.js.map": "/Top-Trumps-Website/static/js/main.6f4b2261.js.map"
   },
   "entrypoints": [
     "static/css/main.035c582e.css",
-    "static/js/main.3aa6d4cf.js"
+    "static/js/main.6f4b2261.js"
   ]
 }
