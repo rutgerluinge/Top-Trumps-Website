@@ -11,9 +11,9 @@ export const Game = () => {
         <div className="paragraph">
           <div className="paragraph vw80">
             The game of Top-Trumps is a very simple card game, where a deck of
-            unique cards get shuffled and is splitted between players. The main
-            objective of the game is to play duels with other players to
-            eventually try to gain all cards of the deck, then the player has
+            unique cards get shuffled and is split between players. The main
+            objective of the game is to play rounds with other players to
+            eventually try to win all cards of the deck, then the player has
             won.
           </div>
 
@@ -21,10 +21,11 @@ export const Game = () => {
             When playing the game all players can view only view the top card of
             their deck, using this card the player who is allowed to start the
             round can name one of the categories on the card. All players should
-            then name their respective value of their top card. The player with
-            the highest value wins the round, and receives all other players
-            cards and puts them at the bottom of the deck. When a player has no
-            cards left, the player is eliminated from the game.
+            then name their respective value of that category from their top
+            card. The player with the highest value wins the round, and receives
+            the cards of all other players and puts them at the bottom of the
+            deck. When a player has no cards left, the player is eliminated from
+            the game.
           </div>
 
           <div className="paragraph vw80">
@@ -39,7 +40,7 @@ export const Game = () => {
           <div className="paragraph vw80">
             The game should roughly look like the following:
             <ol>
-              <b>Repeat till 1 player has all cards:</b>
+              <b>Repeat until 1 player has all cards:</b>
               <li className="list">
                 Decide the round start player (last round winner)
               </li>

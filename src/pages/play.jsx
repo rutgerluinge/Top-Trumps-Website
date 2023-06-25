@@ -40,7 +40,7 @@ export const Play = () => {
           agent B and the third hand to agent C. We chose this complexity of 3
           agents with 3 cards to show how the complexity of the kripke model can
           expode. In the images below an example game is shown, where the winner
-          wins the cards of a round:
+          wins the cards of the respective round:
         </p>
         <div className="image_container">
           <img className="image2" src={s1} alt="" />
@@ -90,8 +90,8 @@ export const Play = () => {
           <p>
             As a result in this given example, agent A will win the game as it
             will receive all cards after the next round of the Kripke model
-            above. When using more cards/agents/stats the result of a round will
-            take longer and are less one-sided.
+            above. When using more cards/agents/stats there will be more rounds
+            and the results will be less one-sided.
           </p>
         </div>
       </div>
