@@ -19,12 +19,14 @@ export const Results = () => {
             </li>
           </ul>
           These parameters yielded the following results, where each table shows
-          a combination of the parameters above. The values are in win
-          percentage so take into account the number of players when evaluating
-          these results. Note that when the other (non player 1) agents use the
-          "smart" strategy, this functions as a control group and the win
-          percentages in the respective row should be equal to 1/n, where n is
-          the number of players.
+          a combination of the parameters above and each combination has been
+          run for 10 000 games to calculate an average win-rate. The values are
+          in win percentage so take into account the number of players when
+          evaluating these results. In the tables, the first row denotes the
+          variable for cards per player. Note that when the other (non player 1)
+          agents use the "smart" strategy, this functions as a control group and
+          the win percentages in the respective row should be equal to 1/n,
+          where n is the number of players.
           <img src={result_img} alt="" />
         </div>
       </div>
