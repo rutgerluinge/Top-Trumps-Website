@@ -1,4 +1,3 @@
-import { Body } from "../components/Body";
 import s1 from "../images/state1.jpg";
 import s2 from "../images/state2.jpg";
 import s3 from "../images/state3.jpg";

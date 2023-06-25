@@ -69,11 +69,11 @@ export const Game = () => {
             <img className="image" src={card_2_image} alt="card example" />
           </div>
           <div className="paragraph vw80">
-            In these example cards we can see the "Gigantosaurs", and
+            In these example cards we can see the "Giganotosaurus", and
             "Coelophysis" 2 dinosaurs, each card has 6 different stat categories
             which the players whose turn it is can choose out of. In the current
-            case we see that the Gigantosaurs is highly advantagous with respect
-            to Coelophysis in almost all stats.
+            case we see that the Giganotosaurus is highly advantagous with
+            respect to Coelophysis in almost all stats.
           </div>
         </div>
       </div>
