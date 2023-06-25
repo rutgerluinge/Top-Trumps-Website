@@ -43,10 +43,10 @@ export const Footer = () => {
         <div className="footer-column">
           <h3>Contact</h3>
           <ul>
-            <li>Marnix Jansma</li>
-            <li>Ben van der Laan</li>
-            <li>Thomas Vos</li>
-            <li>Rutger Luinge; rutger@luinge.eu</li>
+            <li>Marnix Jansma; m.a.jansma@student.rug.nl</li>
+            <li>Ben van der Laan: b.van.der.laan.4@student.rug.nl</li>
+            <li>Thomas Vos; t.j.vos@student.rug.nl</li>
+            <li>Rutger Luinge; r.luinge@student.rug.nl</li>
             <li>
               <a
                 href="https://github.com/rutgerluinge/Top-Trumps-LAMAS"
