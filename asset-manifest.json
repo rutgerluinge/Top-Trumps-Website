@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/Top-Trumps-Website/static/css/main.49b8e148.css",
-    "main.js": "/Top-Trumps-Website/static/js/main.49031f6a.js",
+    "main.css": "/Top-Trumps-Website/static/css/main.035c582e.css",
+    "main.js": "/Top-Trumps-Website/static/js/main.3288591c.js",
     "static/media/card_2.png": "/Top-Trumps-Website/static/media/card_2.281198de8bf2c4d73299.png",
     "static/media/card.png": "/Top-Trumps-Website/static/media/card.a7c2b304751d71ddf47c.png",
-    "static/media/state1.png": "/Top-Trumps-Website/static/media/state1.973b3ce7ef3a04b2d725.png",
-    "static/media/state2.png": "/Top-Trumps-Website/static/media/state2.af88bf03b92794cdb3f7.png",
-    "static/media/state4.png": "/Top-Trumps-Website/static/media/state4.b566cd356681616e9dbb.png",
-    "static/media/state3.png": "/Top-Trumps-Website/static/media/state3.62d79f2c0485a6eeef82.png",
+    "static/media/state2.jpg": "/Top-Trumps-Website/static/media/state2.4014dd88143f61d92149.jpg",
+    "static/media/state3.jpg": "/Top-Trumps-Website/static/media/state3.90f590f6a97dea3a7700.jpg",
+    "static/media/state1.jpg": "/Top-Trumps-Website/static/media/state1.362525368bdf7480ef56.jpg",
+    "static/media/state5.jpg": "/Top-Trumps-Website/static/media/state5.4306f980346a31634789.jpg",
+    "static/media/state4.jpg": "/Top-Trumps-Website/static/media/state4.0fb1e8c9b6567f7b15c5.jpg",
     "static/media/TopTrumpsLogo.png": "/Top-Trumps-Website/static/media/TopTrumpsLogo.5c49e53191573bba7927.png",
+    "static/media/state6.jpg": "/Top-Trumps-Website/static/media/state6.cdf3bfa93876e0106df6.jpg",
     "index.html": "/Top-Trumps-Website/index.html",
-    "main.49b8e148.css.map": "/Top-Trumps-Website/static/css/main.49b8e148.css.map",
-    "main.49031f6a.js.map": "/Top-Trumps-Website/static/js/main.49031f6a.js.map"
+    "main.035c582e.css.map": "/Top-Trumps-Website/static/css/main.035c582e.css.map",
+    "main.3288591c.js.map": "/Top-Trumps-Website/static/js/main.3288591c.js.map"
   },
   "entrypoints": [
-    "static/css/main.49b8e148.css",
-    "static/js/main.49031f6a.js"
+    "static/css/main.035c582e.css",
+    "static/js/main.3288591c.js"
   ]
 }
