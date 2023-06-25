@@ -8,8 +8,8 @@ export const CodeImplementation = () => {
         used:
         <ul>
           <li>Python: programming language</li>
-          <li>Mesa: mesa model for displaying the game rounds</li>
-          <li>GraphicsX: graphing tool for generating Kripke models</li>
+          <li>Mesa: mesa model for displaying the game rounds and calculating the win rates of different configs.</li>
+          <li>GraphicsX: graphing tool for generating the Kripke models</li>
         </ul>
         The full code implementation including a more in depth descripiton can
         be found on our Github repository:

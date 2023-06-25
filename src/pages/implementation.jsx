@@ -69,17 +69,26 @@ export const Implementation = () => {
                   category, the winner gets to see the complete cards.
                 </li>
               </ul>
-              Our implementation also has 2 different game rules about card
-              acquisition:
+              Our implementation includes 3 different game modes that can be
+              selected:
               <ul>
                 <li className="list">
-                  Agents keep their own cards after playing a round (this
-                  version is used for creating the kripke models due to state
-                  explosion).
+                  <b>Normal Gamemode: </b>
+                  The game is played as normal where the winner of the round
+                  gains all won cards. The game ends when 1 agent has attained
+                  all cards.
                 </li>
                 <li className="list">
-                  The agent who won the round, will receive the cards from the
-                  other agents of the respective round.
+                  <b>Rounds Gamemode: </b>A set number of rounds are played and
+                  agents keep their own cards after each round (so no cards are
+                  won by other players). The agent with the most points at the
+                  end of the set amount of rounds wins.
+                </li>
+                <li className="list">
+                  <b>Points Gamemode: </b>This gamemode is equal to the previous
+                  one however the game ends whenever a player reaches a set
+                  amount of points. Again, cards can not be won and thus players
+                  always keep their own cards.
                 </li>
               </ul>
               Our game wil explore three different strategies to see the effect
