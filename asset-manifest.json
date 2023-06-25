@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/Top-Trumps-Website/static/css/main.035c582e.css",
-    "main.js": "/Top-Trumps-Website/static/js/main.fb0c09e8.js",
+    "main.js": "/Top-Trumps-Website/static/js/main.3aa6d4cf.js",
     "static/media/card_2.png": "/Top-Trumps-Website/static/media/card_2.281198de8bf2c4d73299.png",
     "static/media/card.png": "/Top-Trumps-Website/static/media/card.a7c2b304751d71ddf47c.png",
     "static/media/state2.jpg": "/Top-Trumps-Website/static/media/state2.4014dd88143f61d92149.jpg",
     "static/media/state3.jpg": "/Top-Trumps-Website/static/media/state3.90f590f6a97dea3a7700.jpg",
+    "static/media/results.jpg": "/Top-Trumps-Website/static/media/results.6b4bf7c324050939ab74.jpg",
     "static/media/state1.jpg": "/Top-Trumps-Website/static/media/state1.362525368bdf7480ef56.jpg",
     "static/media/state5.jpg": "/Top-Trumps-Website/static/media/state5.4306f980346a31634789.jpg",
     "static/media/state4.jpg": "/Top-Trumps-Website/static/media/state4.0fb1e8c9b6567f7b15c5.jpg",
@@ -13,10 +14,10 @@
     "static/media/state6.jpg": "/Top-Trumps-Website/static/media/state6.cdf3bfa93876e0106df6.jpg",
     "index.html": "/Top-Trumps-Website/index.html",
     "main.035c582e.css.map": "/Top-Trumps-Website/static/css/main.035c582e.css.map",
-    "main.fb0c09e8.js.map": "/Top-Trumps-Website/static/js/main.fb0c09e8.js.map"
+    "main.3aa6d4cf.js.map": "/Top-Trumps-Website/static/js/main.3aa6d4cf.js.map"
   },
   "entrypoints": [
     "static/css/main.035c582e.css",
-    "static/js/main.fb0c09e8.js"
+    "static/js/main.3aa6d4cf.js"
   ]
 }
