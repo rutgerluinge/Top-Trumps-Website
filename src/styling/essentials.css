@@ -26,6 +26,11 @@
   list-style-type: upper-roman;
 }
 
+
+.image2 {
+  width: 700px;
+  height: 500px;
+}
 .image {
   width: 300px;
   height: 500px;
@@ -47,6 +52,8 @@
 .content-container {
   margin-top: auto;
 }
+
+
 
 .color-primary {
   background-color: rgb(17, 103, 38);
@@ -95,6 +102,10 @@
   background-color: green;
 }
 
+.image_container {
+  width: 50vw;
+
+}
 .metallic-color {
   background-image: linear-gradient(to right, #ccc, #333);
 }
