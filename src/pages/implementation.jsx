@@ -70,7 +70,9 @@ export const Implementation = () => {
                 </li>
               </ul>
               Our implementation includes 3 different game modes that can be
-              selected:
+              selected, where the first one: "Normal Gamemode" is used for
+              exploring the results. The other gamemodes where designed for
+              creating more simple Kripke models:
               <ul>
                 <li className="list">
                   <b>Normal Gamemode: </b>

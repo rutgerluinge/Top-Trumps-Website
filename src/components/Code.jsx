@@ -1,6 +1,6 @@
 export const CodeImplementation = () => {
   return (
-    <div className="fill">
+    <div className="paragraph">
       <div className="paragraph">
         For coding the state, we implemented a "memory buffer" for all agents,
         in this buffer the announced cards are remembered based on the picked
